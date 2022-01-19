@@ -1,0 +1,1 @@
+[timestamp]-[open]-[high]-[low]-[close]-[volume]-[open_interest]-[vwap]-[best_bid]-[best_offer]
